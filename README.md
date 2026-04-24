@@ -16,13 +16,6 @@ The dashboard provides insights into **product categories, order fulfillment, de
 
 ---
 
-## 🛠️ Tools & Technologies  
-- **Power BI** – Data visualization and dashboard creation  
-- **Power Query** – Data cleaning and transformation  
-- **DAX (Data Analysis Expressions)** – Calculated measures and KPIs  
-
----
-
 ## 📈 Dashboard Features  
 - KPI card displaying **Total Sales Amount (11.58M)**  
 - Category-wise sales distribution  
